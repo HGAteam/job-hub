@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="24px" height="24px" fill="none" xml:space="preserve">
+<path d="M20,14h-9c-0.6,0-1-0.4-1-1v-3c0-0.6,0.4-1,1-1h9c0.6,0,1,0.4,1,1v3C21,13.6,20.6,14,20,14z M21,20v-3c0-0.6-0.4-1-1-1h-9
+	c-0.6,0-1,0.4-1,1v3c0,0.6,0.4,1,1,1h9C20.6,21,21,20.6,21,20z" fill="currentColor"/>
+<path d="M20,7H3C2.4,7,2,6.6,2,6V3c0-0.6,0.4-1,1-1h17c0.6,0,1,0.4,1,1v3C21,6.6,20.6,7,20,7z M7,9H3c-0.6,0-1,0.4-1,1v10
+	c0,0.6,0.4,1,1,1h4c0.6,0,1-0.4,1-1V10C8,9.4,7.6,9,7,9z" fill="currentColor"/>
+</svg>
